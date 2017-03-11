@@ -1,0 +1,15 @@
+Pretty simple stuff here...  to compile from 
+a command line
+
+gcc backprop_classifier.c -lm
+
+or 
+
+gcc backprop_xor.c -lm
+
+depending on which one you want to work with.  You can add other command line options as you see fit.
+
+Refer to the homework writeup for more details.  Also, read the code….
+
+jcg
+
